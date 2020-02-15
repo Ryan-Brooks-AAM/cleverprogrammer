@@ -9,7 +9,7 @@ def count_words(word):
     return count
 
 
-# Why doesn't this work?
+# returned results need to move out of the local def into global
 len = count_words(word)
 print(f"The word count for {word} is: {len}")
 

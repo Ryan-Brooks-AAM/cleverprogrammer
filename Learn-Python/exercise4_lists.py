@@ -17,6 +17,6 @@ display_movies(movies)
 movies.append("The Jetsons")
 movies.append("Inception")
 
-print("\nList updated.  Use the append function to update lists.\n")
+print("\nList updated.  Use the append function to update lists - ie: list.append('item').\n")
 
 display_movies(movies)

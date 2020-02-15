@@ -1,4 +1,4 @@
-#import time for sleep
+#import time to slow counting so I can visualize the loop
 import time
 
 i = int(100)

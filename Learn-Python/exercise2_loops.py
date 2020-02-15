@@ -14,3 +14,12 @@ while i >= 0:
         print("Happy New Years!!!")
     i = i - 1
         
+
+print("Oh yea we forgot the explosion..")
+
+x = 100
+while x > 0:
+    print(x)
+    x -= 1
+else:
+    print("Kaboom.")

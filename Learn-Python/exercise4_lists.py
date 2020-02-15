@@ -8,11 +8,11 @@ def display_movies(movies):
         print(m)
     print(f"\n{len(movies)} movies in the list/library\n")
 
-# lists can be appended
 
 # display original list
 display_movies(movies)
 
+# list can be appended - 
 # use append to update lists : list.append("item")
 movies.append("The Jetsons")
 movies.append("Inception")
